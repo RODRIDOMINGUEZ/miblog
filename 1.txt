@@ -1,0 +1,2 @@
+Lo escrito aqui es una prueba de los comandos de linux, esto esta escrito en wsl( windows) ya que me permite usar la terminal de linux
+
