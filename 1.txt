@@ -1,2 +1,3 @@
 Lo escrito aqui es una prueba de los comandos de linux, esto esta escrito en wsl( windows) ya que me permite usar la terminal de linux. Quiero añadir que he tenido varias dudas al usar git, ya que es la primera vez que uso una tecnologia como esta.
 
+esta es la tercer prueba del comando reset.
