@@ -2,11 +2,7 @@ Lo escrito aqui es una prueba de los comandos de linux, esto esta escrito en wsl
 
 esta es la tercer prueba del comando reset.
 
-Ahora voy a probar creando una rama llamada test
+Ahora voy a probar creando una rama llamada test. 
+¿sera que lo lograre?
 
-<<<<<<< HEAD
-¿sera que lo lograré?
-=======
 
-La prueba se realizo con exito, pude fusionar la rama test con la master.XD
->>>>>>> test
