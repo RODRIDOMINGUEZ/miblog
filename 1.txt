@@ -4,8 +4,4 @@ esta es la tercer prueba del comando reset.
 
 Ahora voy a probar creando una rama llamada test
 
-<<<<<<< HEAD
 ¿sera que lo lograré?
-=======
-La prueba se realizo con exito, pude fusionar la rama test con la master.XD
->>>>>>> test
