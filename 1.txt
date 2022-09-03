@@ -8,5 +8,5 @@ Ahora voy a probar creando una rama llamada test.
 Ahora voy a probar creando una rama llamada test.
 En esta linea doy aviso que modificare y borrare lineas de este archivo.
 
-Ya no borrare los cambios, si bien con git es posible volver atras, prefiero ver el archivo completo.
+Voy a probar modificar el archivo y guardar los cambios en git stash y luego pasarlo a otra rama, luego voy a probar sublime para intentar resolver conflictos.
 
