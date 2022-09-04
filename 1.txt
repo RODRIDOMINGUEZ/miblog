@@ -1,3 +1,15 @@
 Lo escrito aqui es una prueba de los comandos de linux, esto esta escrito en wsl( windows) ya que me permite usar la terminal de linux. Quiero añadir que he tenido varias dudas al usar git, ya que es la primera vez que uso una tecnologia como esta.
 
+<<<<<<< HEAD
 Esto no esta funionando como me gustaria
+=======
+Ahora voy a probar creando una rama llamada test.
+¿sera que lo lograre?
+
+Ahora voy a probar creando una rama llamada test.
+En esta linea doy aviso que modificare y borrare lineas de este archivo.
+
+Voy a probar modificar el archivo y guardar los cambios en git stash y luego pasarlo a otra rama, luego voy a probar sublime para intentar resolver conflictos.
+
+¿lo lograre?
+>>>>>>> prueba_sublime
