@@ -8,3 +8,4 @@ En esta linea doy aviso que modificare y borrare lineas de este archivo.
 
 Voy a probar modificar el archivo y guardar los cambios en git stash y luego pasarlo a otra rama, luego voy a probar sublime para intentar resolver conflictos.
 
+me olvide de agregar esta linea y voy hacer un amend
